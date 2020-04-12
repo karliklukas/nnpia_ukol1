@@ -1,0 +1,26 @@
+.item{
+    width: 100%;
+    border: 1px solid red;
+    padding: 10px;
+    margin: 10px;
+    font-size: small;
+    text-align: left;
+}
+
+.item button{
+    color: white;
+    background-color: crimson;
+    font-size: medium;
+}
+
+.inputT{
+    width: 50%;
+    font-size: x-large;
+    padding: 10px;
+    margin: 10px;
+}
+
+.wrapList{
+      width: 60vw;
+    text-align: center;
+  }
